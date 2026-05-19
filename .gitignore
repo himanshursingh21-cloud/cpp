@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.obj
+.vs/
+build/
+arithmetic.cpp
+array.cpp
+func.cpp
+input.cpp
+maths_fn.cpp
+loop.cpp
+whilee.cpp
+logical_operator.cpp
+typedef.cpp
+Variables_and_datatypes.cpp
